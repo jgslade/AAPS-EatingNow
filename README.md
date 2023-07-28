@@ -1,5 +1,7 @@
 # AndroidAPS
 
+This fork contains both the EatingNow and AutoISF patches, there are some shared varibles in these two branches that are treated differently, so if you switch please double check your settings to ensure they are what you want them to be.
+
 * Check the wiki: https://androidaps.readthedocs.io
 *  Everyone who’s been looping with AndroidAPS needs to fill out the form after 3 days of looping  https://docs.google.com/forms/d/14KcMjlINPMJHVt28MDRupa4sz4DDIooI4SrW0P3HSN8/viewform?c=0&w=1
 
